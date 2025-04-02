@@ -9,5 +9,5 @@
 
 Я фотограф 
 
-![Моё фото](https://drive.google.com/file/d/1MbptEA_rZ3vRuEG742vsLzsyHt5u7etL/view?usp=drive_link)
+
 
